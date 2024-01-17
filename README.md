@@ -11,12 +11,12 @@ This application is an obscure music recommendation system built using Streamlit
 - **Streamlit**: Used for creating the web application.
 - **Spotipy**: A lightweight Python library for the Spotify Web API, used for fetching data from Spotify.
 - **Pandas**: For data manipulation and analysis.
-- **Visualization Tools**: For visualizing music features.
+- **Visualization Tools**: MatplotLib, Altair 
 
 
 ## Setup & Installation
-1. Install necessary Python packages: `streamlit`, `spotipy`, `pandas`, and others as required.
-2. Set up Spotify API credentials (Client ID and Client Secret).
+1. Install essential Python packages: `streamlit`, `spotipy`, `pandas`, and others as required.
+2. Set up Spotify API credentials (Client ID and Client Secret) through the link provided in resources.
 3. Clone/download the application repository.
 4. Run the app using Streamlit.
 
