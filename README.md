@@ -1,5 +1,8 @@
 # Obscure Music Recommendation System
 
+![](MR_GN.png)
+
+
 ## Overview
 This application is an obscure music recommendation system built using Streamlit. It is designed to help users explore less-heard songs, undiscovered genres. (Updating to also recommend music in new languages.)
 
@@ -23,7 +26,7 @@ This application is an obscure music recommendation system built using Streamlit
 3. View album images, song features, or get music recommendations based on your selection.
 
 ## Refrences and resources 
-1. I would like to express my gratitude to Avkash Chauhan.  https://github.com/avkash
+1. https://github.com/avkash I would like to express my gratitude to Avkash Chauhan for laying out the well-explained tutorial this application is built on top of. 
 2. https://developer.spotify.com/documentation/web-api
 3. https://docs.streamlit.io/library/api-reference
 
